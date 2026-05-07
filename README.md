@@ -1,5 +1,10 @@
 # The Hidden Costs of Microfrontends — Interactive Edge Cases
 
+## This is not a production-ready Module Federation setup.
+## It is a React simulation built to make Microfrontend failure modes visible.
+
+
+
 Companion app for the article *"The Hidden Costs of Microfrontends Nobody Talks About."*
 Six interactive demos that make the architectural failure modes of microfrontends **visible**: design token drift, dependency mismatches, shared HTTP coupling, store synchronization issues, and the decision of whether to actually go distributed.
 
