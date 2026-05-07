@@ -1,7 +1,6 @@
 # The Hidden Costs of Microfrontends — Interactive Edge Cases
 
-## This is not a production-ready Module Federation setup.
-## It is a React simulation built to make Microfrontend failure modes visible.
+## This is not a production-ready Module Federation setup. It is a React simulation built to make Microfrontend failure modes visible.
 
 
 
